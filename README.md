@@ -62,6 +62,7 @@ void loop() {
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3d3b0540-f1a7-48a8-812e-716a917424c5" width="800" height="500">
 </p>
+</br>
 
 ## OUTPUT:
 
@@ -70,12 +71,14 @@ void loop() {
 <p align="center">
   <img src="https://github.com/user-attachments/assets/650239f3-4c9c-4143-b3e8-4ed5a715f5ff" width="800" height="500">
 </p>
+</br>
 
 ### LAMP OFF
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/176a1b18-d398-44bb-a0c1-30b8a31b8351" width="800" height="500">
 </p>
+</br>
 
 
 ## RESULT:
