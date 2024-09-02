@@ -59,7 +59,7 @@ void loop() {
 ```
 
 ## CIRCUIT DIAGRAM:
-<hr>
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3d3b0540-f1a7-48a8-812e-716a917424c5" width="800" height="500">
 </p>
